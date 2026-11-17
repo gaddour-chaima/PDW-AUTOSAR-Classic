@@ -20,3 +20,17 @@ desktop.ini
 *.dmr
 *.mat
 tmwinternal/
+
+# Unity 3D
+Unity_3D/Library/
+Unity_3D/Temp/
+Unity_3D/Logs/
+Unity_3D/Obj/
+Unity_3D/Build/
+Unity_3D/Builds/
+Unity_3D/UserSettings/
+Unity_3D/.vs/
+Unity_3D/.vscode/
+Unity_3D/*.csproj
+Unity_3D/*.sln
+Unity_3D/*.slnx
