@@ -1,0 +1,8 @@
+#C:\Users\chaym\OneDrive\Documents\MATLAB\PDW_Controller_autosar_rtw\stub\Rte_ParkingDistanceWarning.h
+#this file contains the list of RTE methods that the profiling must filter out
+-Rte_IRead_PDW_Main_20ms_DistanceInput_DistanceInput
+-Rte_IRead_PDW_Main_20ms_ReverseGearInput_ReverseGearInput
+-Rte_IWrite_PDW_Main_20ms_WarningLevelOutput_WarningLevelOutput
+-Rte_IWriteRef_PDW_Main_20ms_WarningLevelOutput_WarningLevelOutput
+-Rte_IWrite_PDW_Main_20ms_BuzzerOutput_BuzzerOutput
+-Rte_IWriteRef_PDW_Main_20ms_BuzzerOutput_BuzzerOutput

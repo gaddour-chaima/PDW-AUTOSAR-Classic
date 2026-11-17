@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.slxc
+*.mexw64
+slprj/
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
+
+# Generated build files
+*.obj
+*.exe
+*.lib
+*.rsp
+*.mk
+*.bat
+*.tmw
+*.dmr
+*.mat
+tmwinternal/
